@@ -1,0 +1,14 @@
+02/09/2015 19:01:50 - New match 10010 has started
+
+02/09/2016 19:01:55 - ZEUS killed SASS using K7
+02/09/2016 19:01:58 - ROMAN killed SASS using M4A1
+02/09/2016 19:02:22 - VAN killed DOOM using AK47
+02/09/2016 19:02:26 - VAN killed SASS using G36
+02/09/2016 19:02:30 - VAN killed GEO using AK47
+02/09/2016 19:03:05 - VAN killed ZEUS using AK47
+02/09/2016 19:03:22 - VAN killed NICK using AK47
+02/09/2016 19:03:50 - <WORLD> killed SASS by DROWN
+02/09/2016 19:03:59 - ROMAN killed ZEUS using M4A1
+
+
+02/09/2016 19:04:22 - Match 10010 has ended 
